@@ -1,5 +1,5 @@
 
-# Quran Reader
+# Quran Reader and Tester
 
 ## Overview
 This Streamlit app allows users to read and interact with Quranic verses. It provides features for selecting specific suras, displaying verse text, and optionally, conducting quizzes.
